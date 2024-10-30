@@ -1,4 +1,4 @@
-name: Test Project + Deploy
+name: Test Project + Deploy and manual trigger
 on: [push, workflow_dispatch]
 jobs:
   test:
